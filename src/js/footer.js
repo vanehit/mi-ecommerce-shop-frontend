@@ -36,14 +36,16 @@ const createFooter = () =>{
     </div>
 </div>
 <p class="footer-title">Acerca de Nosotros</p>
-<p class="info">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam maxime praesentium dicta excepturi est, assumenda voluptatibus fugiat. Voluptates fugiat, eaque possimus sed animi corporis ducimus dicta autem cum, recusandae sint.
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, esse odit iure sint debitis quos rerum ullam nesciunt similique sapiente, deleniti officiis! Iusto qui quod fuga delectus nostrum, a eius.
+<p class="info">  
+La propuesta de valor de Clothing brinda lo más relevante de cada colección, a través de modelos exclusivos e innovaciones que marcan tendencia urbana.
+Actualmente, Clothing cuenta con tres tiendas: una en el barrio el Talar, en mendiolaza; otra en la Ciudad de Córdoba, y una tercera recientemente inaugurada en Villa Allende, todas ellas orientadas a ofrecer la mejor experiencia al cliente. Además, prevé nuevas aperturas en zonas estratégicas de CABA y Gran Buenos Aires.
+ 
+Gracias por tu visita!!!
 </p>
-<p class="info">Support emails helps@clothis.com, customersupport@clothing.com</p>
+<p class="info">Support emails helps@clothing.com, customersupport@clothing.com</p>
 <p class="info">Teléfono 351 4238386 - 351 156865256</p>
 <p class="footer-social-container">
     <a href="#" class="social-link">Términos y Condiciones</a>
-    <a href="#" class="social-link">Politica de Privacidad</a>
 </p>
 <p class="footer-social-container">
     <a href="#" class="social-link">Instagram</a>
