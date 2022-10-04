@@ -24,10 +24,7 @@ app.get('/', (req, res) =>{
     res.sendFile(path.join(staticPath, "404.html"));
 })
 
-//singup page
-app.get('/', (req, res) =>{
-    res.sendFile(path.join(staticPath, ".html"));
-})
+
 
 
 app.listen(8080, () =>{
